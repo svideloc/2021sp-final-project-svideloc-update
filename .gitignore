@@ -1,0 +1,7 @@
+job_name.csv
+job_name.kml
+UNKNOWN.egg-info/
+build/
+dist/
+final_project.egg-info/
+final_project/docs/_build

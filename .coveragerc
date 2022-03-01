@@ -1,0 +1,11 @@
+[report]
+omit =
+    */tests.py
+    */test_*.py
+    */*_tests.py
+    */final_project/__init__.py
+    */final_project/__main__.py
+    */final_project/algorithms/__init__.py
+    
+exclude_lines =
+    if __name__ == __main__

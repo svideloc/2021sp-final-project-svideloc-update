@@ -1,0 +1,4 @@
+exclude_patterns:
+- "/final_project/__main__.py"
+- "/final_project/__init__.py"
+- "/final_project/algorithms/__init__.py"
